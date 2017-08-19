@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daftar Mahasiswa</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buatbiodata">Daftar Mahasiswa Baru</string>
+    <string name="title_activity_lihatbiodata">Melihat Daftar Mahasiswa</string>
+    <string name="title_activity_updatebiodata">Memperbarui Daftar Mahasiswa</string>
+</resources>
